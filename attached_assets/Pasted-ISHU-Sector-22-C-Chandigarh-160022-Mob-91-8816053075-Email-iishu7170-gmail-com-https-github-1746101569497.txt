@@ -1,0 +1,59 @@
+ISHU
+Sector 22 C, Chandigarh -160022
+Mob.- +91-8816053075
+Email- iishu7170@gmail.com
+
+https://github.com/trisha86567
+Languages:
+
+C++:
+Mastery in imparting knowledge about C++'s memory model, pointers, and advanced programming constructs.
+Proficient in teaching the intricacies of the C++ Standard Library, templates, and object-oriented paradigms.
+Expertise in guiding trainees on debugging techniques, compiler optimizations, and efficient algorithm implementation using C++.
+Proficient in data structures and algorithms, covering fundamental structures like arrays and linked lists to advanced concepts such as segment trees and graph algorithms.
+Python:
+Proficient in Python programming language.
+Skilled in utilizing Python for data analysis, machine learning, and web development.
+Experienced in implementing data structures and algorithms in Python.
+
+DBMS:
+
+SQL: 
+Proficient in SQL database design, query optimization, and management.
+
+NoSQL: 
+Experienced in NoSQL database architectures, including MongoDB and Firebase, focusing on scalability and flexibility
+Proficient in harnessing the power of modern frameworks such as Tailwind CSS to create responsive and visually appealing web interfaces. Demonstrated expertise in Java, leveraging its vast libraries and functionalities to engineer robust, scalable, and maintainable solutions. Adept in C++ with deep knowledge in its core principles, data structures, and algorithms, contributing to efficient software solutions. Recognized as a dedicated trainer, sharing insights and knowledge in both Java and C++ domains, fostering growth and nurturing the next generation of software professionals.
+Secure Net Technologies
+Trainer
+08-2023 to till date
+
+Netmax Technologies
+Intern
+11-2022 to 4-2023
+Professional summary
+Education
+Relevant experience
+Skills
+Bachelors of Computer Application
+Kurukshetra  University
+2020-2023
+
+Secondary School
+S.D. Model Sr. Sec. School, Karnal
+2019-2020
+Frameworks:
+Node.js:
+In-depth knowledge of Node.js's event-driven architecture, adept at coaching on its non-blocking I/O capabilities.
+Skilled in instructing on the creation of scalable back-end applications, leveraging Express.js and other Node.js frameworks.
+Expertise in hands-on training on building RESTful APIs, asynchronous operations, and integrating various Node.js modules.
+Libraries:
+React:
+Profound understanding of React.js, focusing on its component-driven architecture, hooks, and state management.
+Mastery in training on best practices for creating responsive user interfaces and leveraging React's ecosystem.
+Expertise in demonstrating integration of third-party libraries, application state management, and performance optimization techniques in React.
+Utility:
+Tailwind:
+Skilled in introducing and guiding on Tailwind CSS, elucidating its utility-first approach for rapid UI development.
+Proficient in coaching on responsive designs, custom configurations, and advanced Tailwind utilities.
+Expertise in practical integration of Tailwind with various frontend frameworks, ensuring both aesthetic and functional design outcomes.
