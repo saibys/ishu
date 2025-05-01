@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Favicon -->
+  <link rel="icon" href="images/fav.png" type="image/png">
+  <title>Ishu - Resume</title>
+  <style>
+    body {
+      margin: 20px 50px;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    hr {
+      border: 1px solid #000;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    .buttons {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      background-color: #0056b3;
+    }
+
+    .columns {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .column {
+      flex: 1;
+      margin: 10px;
+      min-width: 250px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    h2 {
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+      margin-top: 20px;
+    }
+
+    /* Added CSS for side-by-side layout for Experience */
+    .experience {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    .exp-column {
+      flex: 1;
+      margin: 10px;
+      min-width: 250px;
+    }
+
+    /* Styles for Core Competencies below */
+    .competencies {
+      margin-top: 20px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .competencies ul {
+      padding-left: 20px;
+      margin-right: 30px;
+      width: 45%;
+      /* Two columns, each takes up 45% of the width */
+    }
+
+    .competencies li {
+      margin-bottom: 8px;
+    }
+
+    /* Hide print button when printing */
+    @media print {
+      .print-btn {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Print Button -->
+  <div class="buttons">
+    <button class="btn print-btn" onclick="window.print()">Print Resume</button>
+  </div>
+  <div id="resume">
+
+    <div class="center">
+      <h1>Ishu</h1>
+      Sector 22 C, Chandigarh -160022<br>
+      <a href="mailto:iishu7170@gmail.com">iishu7170@gmail.com</a> | +91-8816053075 | <a
+        href="https://wa.me/918816053075">WhatsApp</a>
+    </div>
+
+    <hr>
+
+    <div>
+      <h2>Career Objective</h2>
+      <p>To contribute to the growth of an organization by sharing my knowledge in C++, Python, Java, Node.js, and more.
+        I aim to provide technical guidance and hands-on training to future software developers, ensuring the highest
+        standards of teaching and skill development.</p>
+
+      <h2>Profile Summary</h2>
+      <p>A highly skilled trainer with a strong background in teaching C++, Python, DBMS, and full-stack development
+        technologies. Possess a deep understanding of data structures, algorithms, and frameworks like Node.js and
+        React. Adept at imparting knowledge on complex programming concepts, ensuring clarity and practical application.
+      </p>
+    </div>
+
+    <h2>Experience</h2>
+    <div class="experience">
+      <div class="exp-column">
+        <strong>Secure Net Technologies</strong><br>
+        <em>Trainer</em> (Aug 2023 – Present)
+        <ul>
+          <li>Providing training on C++, Python, and database management systems.</li>
+          <li>Mentoring students in mastering programming languages, algorithms, and software development best
+            practices.</li>
+          <li>Developing course materials and conducting hands-on workshops.</li>
+        </ul>
+      </div>
+
+      <div class="exp-column">
+        <strong>Netmax Technologies</strong><br>
+        <em>Intern</em> (Nov 2022 – Apr 2023)
+        <ul>
+          <li>Assisted in developing backend applications using Node.js and integrated RESTful APIs.</li>
+          <li>Contributed to database design and query optimization in both SQL and NoSQL environments.</li>
+          <li>Developed various modules using JavaScript, Python, and SQL to improve the company's software
+            infrastructure.</li>
+        </ul>
+      </div>
+    </div>
+
+    <hr>
+    <h2>Core Competencies</h2>
+    <div class="experience">
+
+      <div class="exp-column">
+        <ul>
+          <li><strong>C++:</strong> Mastery in imparting knowledge about C++'s memory model, pointers, and advanced
+            programming constructs. Proficient in teaching data structures, algorithms, and debugging techniques.</li>
+          <li><strong>Python:</strong> Expertise in Python for data analysis, machine learning, and web development,
+            along with a strong foundation in algorithms and data structures.</li>
+          <li><strong>DBMS (SQL & NoSQL):</strong> Skilled in SQL database design, query optimization, and management.
+            Proficient with NoSQL databases like MongoDB and Firebase for scalable, flexible architectures.</li>
+        </ul>
+      </div>
+      <div class="exp-column">
+        <ul>
+          <li><strong>Node.js:</strong> Extensive experience with Node.js's event-driven architecture, building scalable
+            applications, and training on asynchronous operations, Express.js, and REST APIs.</li>
+          <li><strong>React:</strong> Deep knowledge of React.js, component-driven architecture, state management, and
+            integrating third-party libraries for web applications.</li>
+          <li><strong>Tailwind CSS:</strong> Proficient in using Tailwind CSS for rapid UI development with a focus on
+            responsive designs and customization.</li>
+        </ul>
+      </div>
+    </div>
+
+    <hr>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Bachelor of Computer Application (BCA)</strong> – Kurukshetra University (2020-2023)</li>
+      <li><strong>Secondary School</strong> – S.D. Model Sr. Sec. School, Karnal (2019-2020)</li>
+    </ul>
+
+    <hr>
+
+    <h2>Languages & Interests</h2>
+    <p><strong>Languages Known:</strong> English, Hindi</p>
+    <p><strong>Interests:</strong> Programming, Machine Learning, Web Development, Technology Trends</p>
+
+    <hr>
+
+    <h2>Declaration</h2>
+    <p>The above information is true and correct to the best of my knowledge and belief. I take full responsibility for
+      the authenticity of the facts presented.</p>
+
+    <br><br>
+    <p><strong>Signature:</strong> Ishu</p>
+
+  </div>
+
+
+  <!-- Script for saving as PDF -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
